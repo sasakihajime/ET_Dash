@@ -1,6 +1,8 @@
 <<<<<<< 5d61a24863ce04de64767f815fddf7f7e74d4668
 # ET_Dash
 test for ET dashboard
+This line is a practice for git commit and push.....
+
 =======
 # Getting Started with Create React App
 
